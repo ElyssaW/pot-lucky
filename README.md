@@ -11,15 +11,15 @@ A "community kitchen" app that connects local cooks and bakers looking to make s
 
 ### MVP
 
-[ ] Basic CRUD functionality (Create/Read/Update/Delete offers and requests)
-[ ] Database with tables for users, requests, and offers
-[ ] Geocoding API to find users in your area
+- [ ] Basic CRUD functionality (Create/Read/Update/Delete offers and requests)
+- [ ] Database with tables for users, requests, and offers
+- [ ] Geocoding API to find users in your area
 
 ### Stretch Goals
 
-[ ] Recipe search (New datatable for recipes?)
-[ ] In-app messaging (Socket.io?)
-[ ] Visual map representation (Mapbox GL?)
+- [ ] Recipe search (New datatable for recipes?)
+- [ ] In-app messaging (Socket.io?)
+- [ ] Visual map representation (Mapbox GL?)
 
 ## ERD
 
@@ -29,9 +29,9 @@ A "community kitchen" app that connects local cooks and bakers looking to make s
 
 ![Landing](images/LandingPage.png)
 
-![Show](images/ShowPage.png)
-
 ![Request](images/RequestPage.png)
+
+![Show](images/ShowPage.png)
 
 ![Profile](images/ProfilePage.png)
 
