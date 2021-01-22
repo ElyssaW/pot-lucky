@@ -29,11 +29,11 @@ A "community kitchen" app that connects local cooks and bakers looking to make s
 
 ![Landing](images/LandingPage.png)
 
-![Show](images/Show Page.png)
+![Show](images/ShowPage.png)
 
-![Request](images/Request Page.png)
+![Request](images/RequestPage.png)
 
-![Profile](images/Profile Page.png)
+![Profile](images/ProfilePage.png)
 
 ### Roadblocks
 
